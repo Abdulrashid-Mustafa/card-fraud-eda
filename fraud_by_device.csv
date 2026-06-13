@@ -1,0 +1,4 @@
+device_type,txns,fraud_rate_pct
+mobile,55645,10.17
+desktop,85165,6.52
+unknown,449730,2.1

@@ -1,0 +1,16 @@
+card_network,card_type,txns,fraud_rate_pct
+,credit,3,33.33
+,debit,9,11.11
+discover,credit,6304,7.93
+mastercard,credit,50772,6.92
+visa,credit,83732,6.81
+discover,debit,347,4.03
+american express,debit,144,3.47
+american express,credit,8175,2.86
+visa,debit,301023,2.55
+,,1565,2.49
+mastercard,debit,138415,2.16
+mastercard,debit or credit,30,0.0
+visa,charge card,12,0.0
+american express,,6,0.0
+american express,charge card,3,0.0
