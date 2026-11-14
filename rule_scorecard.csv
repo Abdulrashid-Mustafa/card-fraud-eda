@@ -1,0 +1,8 @@
+rule_name,alerts,alert_rate_pct,frauds_caught,precision_pct,recall_pct,recall_usd_pct
+Product C on credit card,27551,4.67,4663,16.92,22.57,7.69
+"Two or more of: Product C, mobile, risky email",30528,5.17,4139,13.56,20.03,6.33
+Product C,68519,11.6,8008,11.69,38.76,12.69
+Email mail.com or outlook.com,5655,0.96,588,10.4,2.85,2.39
+Mobile device,55645,9.42,5657,10.17,27.38,17.72
+Offset hours 5 to 9,24482,4.15,2006,8.19,9.71,8.32
+Amount 250 to 1000 USD,58780,9.95,3180,5.41,15.39,47.38

@@ -1,14 +1,11 @@
-card_type,ProductCD,fraud_rate_pct,txns
-debit,C,8.16,40763
-credit,C,16.92,27551
-credit,S,5.68,6527
-debit,S,6.18,5100
-credit,W,4.25,70753
-debit,W,1.62,367516
-credit,H,4.97,17656
-debit,H,4.53,15367
-debit,R,3.52,11192
-credit,R,3.89,26499
-debit or credit,W,0.0,30
-charge card,C,0.0,12
-charge card,R,0.0,3
+card_type,ProductCD,txns,frauds,fraud_rate_pct
+credit,C,27551,4663,16.92
+credit,S,6527,371,5.68
+credit,H,17656,878,4.97
+credit,W,70753,3006,4.25
+credit,R,26499,1032,3.89
+debit,C,40763,3327,8.16
+debit,S,5100,315,6.18
+debit,H,15367,696,4.53
+debit,R,11192,394,3.52
+debit,W,367516,5942,1.62

@@ -1,0 +1,2 @@
+transaction_rows,transaction_ids,identity_rows,identity_ids,clean_rows,clean_ids,null_amount,null_card_type,null_email_domain,null_device_type,distinct_days,min_amount,max_amount
+590540,590540,144233,144233,590540,590540,0,1571,94456,449730,182,0.251,31937.391
