@@ -1,0 +1,14 @@
+ProductCD,device_type,txns,frauds,fraud_rate_pct
+C,desktop,31846,3760,11.81
+C,mobile,29169,3834,13.14
+C,unknown,7504,414,5.52
+H,desktop,19011,826,4.34
+H,mobile,13087,737,5.63
+H,unknown,926,11,1.19
+R,desktop,25105,559,2.23
+R,mobile,11324,846,7.47
+R,unknown,1270,21,1.65
+S,desktop,9203,409,4.44
+S,mobile,2065,240,11.62
+S,unknown,360,37,10.28
+W,unknown,439670,8969,2.04

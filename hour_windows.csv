@@ -1,0 +1,3 @@
+hour_window,txns,frauds,fraud_rate_pct,share_of_volume_pct,share_of_fraud_pct,lift_vs_overall,avg_txns_per_day
+offset hours 5 to 9,24482,2006,8.19,4.15,9.71,2.34,134.5
+offset hours 7 to 8,6295,634,10.07,1.07,3.07,2.88,34.6
